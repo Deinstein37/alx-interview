@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 """
-A file containing an implementation for the prime game task
+Define isWineer function, a solution to the Prime Game problem
 """
+
 
 def primes(n):
     """Return list of prime numbers between 1 and n inclusive
